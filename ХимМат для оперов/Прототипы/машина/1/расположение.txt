@@ -1,0 +1,2 @@
+В файле я оставил только то, что я добавил
+Resources\Prototypes\Catalog\Fills\Crates\chemvend.yml

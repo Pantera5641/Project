@@ -1,0 +1,2 @@
+В файле я оставил только то, что я добавил
+Resources\Prototypes\Entities\Objects\Specific\chemical-containers.yml

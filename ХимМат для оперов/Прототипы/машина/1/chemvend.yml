@@ -1,0 +1,14 @@
+- type: vendingMachineInventory
+  id: SyndicateChemVendInventory
+  startingInventory:
+    Jug: 4
+    JugBicaridine: 2
+    JugDermaline: 2
+    JugDylovene: 2
+    JugDexalinPlus: 2
+    JugTricordrazine: 2
+    JugSynaptizine: 2
+    JugEphedrine: 2
+  emaggedInventory:
+    JugDesoxyephedrine: 1
+    OmnizineChemistryBottle: 1

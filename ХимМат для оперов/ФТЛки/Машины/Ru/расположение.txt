@@ -1,0 +1,2 @@
+В файле я оставил только то, что я добавил
+Resources\Locale\ru-RU\ss14-ru\prototypes\entities\structures\machines\vending_machines.ftl

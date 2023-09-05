@@ -1,0 +1,16 @@
+ent-JugBicaridine = кувшин (бикаридин)
+    .desc = { ent-Jug.desc }
+ent-JugDermaline = кувшин (дермалин)
+    .desc = { ent-Jug.desc }
+ent-JugDylovene = кувшин (диловен)
+    .desc = { ent-Jug.desc }
+ent-JugDexalinPlus = кувшин (дексалин плюс)
+    .desc = { ent-Jug.desc }
+ent-JugEphedrine = кувшин (эфедрин)
+    .desc = { ent-Jug.desc }
+ent-JugTricordrazine = кувшин (трикордразин)
+    .desc = { ent-Jug.desc }
+ent-JugSynaptizine = кувшин (синаптизин)
+    .desc = { ent-Jug.desc }
+ent-JugDesoxyephedrine = кувшин (метамфетамин)
+    .desc = { ent-Jug.desc }

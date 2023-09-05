@@ -1,0 +1,24 @@
+- type: entity
+  id: CrateChemistryZ
+  parent: CrateChemistrySecure
+  components:
+    - type: StorageFill
+      contents:
+        - id: JugBicaridine
+          amount: 1
+        - id: JugDylovene
+          amount: 1
+        - id: JugDermaline
+          amount: 1
+        - id: JugBicaridine
+          amount: 1
+        - id: JugDexalinPlus
+          amount: 1
+        - id: JugEphedrine
+          amount: 1
+        - id: JugTricordrazine
+          amount: 1
+        - id: JugSynaptizine
+          amount: 1
+        - id: JugDesoxyephedrine
+          amount: 1

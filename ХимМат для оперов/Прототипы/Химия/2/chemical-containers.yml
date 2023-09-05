@@ -1,0 +1,120 @@
+#Pantera5641
+- type: entity
+  parent: Jug
+  name: jug (bicaridine)
+  id: JugBicaridine
+  noSpawn: true
+  components:
+    - type: Label
+      currentLabel: bicaridine
+    - type: SolutionContainerManager
+      solutions:
+        beaker:
+          reagents:
+            - ReagentId: Bicaridine
+              Quantity: 200
+
+- type: entity
+  parent: Jug
+  name: jug (dermaline)
+  id: JugDermaline
+  noSpawn: true
+  components:
+    - type: Label
+      currentLabel: dermaline
+    - type: SolutionContainerManager
+      solutions:
+        beaker:
+          reagents:
+            - ReagentId: Dermaline
+              Quantity: 200
+
+- type: entity
+  parent: Jug
+  name: jug (dylovene)
+  id: JugDylovene
+  noSpawn: true
+  components:
+    - type: Label
+      currentLabel: dylovene
+    - type: SolutionContainerManager
+      solutions:
+        beaker:
+          reagents:
+            - ReagentId: Dylovene
+              Quantity: 200
+
+- type: entity
+  parent: Jug
+  name: jug (dexalinplus)
+  id: JugDexalinPlus
+  noSpawn: true
+  components:
+    - type: Label
+      currentLabel: dexalinplus
+    - type: SolutionContainerManager
+      solutions:
+        beaker:
+          reagents:
+            - ReagentId: DexalinPlus
+              Quantity: 200
+
+- type: entity
+  parent: Jug
+  name: jug (ephedrine)
+  id: JugEphedrine
+  noSpawn: true
+  components:
+    - type: Label
+      currentLabel: ephedrine
+    - type: SolutionContainerManager
+      solutions:
+        beaker:
+          reagents:
+            - ReagentId: Ephedrine
+              Quantity: 200
+              
+- type: entity
+  parent: Jug
+  name: jug (tricordrazine)
+  id: JugTricordrazine
+  noSpawn: true
+  components:
+    - type: Label
+      currentLabel: tricordrazine
+    - type: SolutionContainerManager
+      solutions:
+        beaker:
+          reagents:
+            - ReagentId: Tricordrazine
+              Quantity: 200
+              
+- type: entity
+  parent: Jug
+  name: jug (synaptizine)
+  id: JugSynaptizine
+  noSpawn: true
+  components:
+    - type: Label
+      currentLabel: synaptizine
+    - type: SolutionContainerManager
+      solutions:
+        beaker:
+          reagents:
+            - ReagentId: Synaptizine
+              Quantity: 200
+              
+- type: entity
+  parent: Jug
+  name: jug (desoxyephedrine)
+  id: JugDesoxyephedrine
+  noSpawn: true
+  components:
+    - type: Label
+      currentLabel: desoxyephedrine
+    - type: SolutionContainerManager
+      solutions:
+        beaker:
+          reagents:
+            - ReagentId: Desoxyephedrine
+              Quantity: 200

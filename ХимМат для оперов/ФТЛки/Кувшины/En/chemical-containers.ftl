@@ -1,0 +1,16 @@
+ent-JugBicaridine = jug (bicaridine)
+    .desc = { ent-Jug.desc }
+ent-JugDermaline = jug (dermaline)
+    .desc = { ent-Jug.desc }
+ent-JugDylovene = jug (dylovene)
+    .desc = { ent-Jug.desc }
+ent-JugDexalinPlus = jug (dexalinplus)
+    .desc = { ent-Jug.desc }
+ent-JugEphedrine = jug (ephedrine)
+    .desc = { ent-Jug.desc }
+ent-JugTricordrazine = jug (tricordrazine)
+    .desc = { ent-Jug.desc }
+ent-JugSynaptizine = jug (synaptizine)
+    .desc = { ent-Jug.desc }
+ent-JugDesoxyephedrine = jug (desoxyephedrine)
+    .desc = { ent-Jug.desc }
