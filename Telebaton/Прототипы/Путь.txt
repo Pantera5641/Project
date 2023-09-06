@@ -1,0 +1,1 @@
+\Resources\Prototypes\Entities\Objects\Weapons\security.yml

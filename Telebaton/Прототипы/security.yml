@@ -1,0 +1,35 @@
+- type: entity
+  name: telescopic baton
+  parent: BaseItem
+  id: TeleBaton
+  description: Compact but reliable personal defense weapon. Can be hidden when folded.
+  components:
+  - type: Sprite
+    sprite: Objects/Weapons/Melee/telebaton.rsi
+    layers:
+    - state: telebaton_off
+      map: [ "enum.ToggleVisuals.Layer" ]
+  - type: Telebaton
+  - type: MeleeWeapon
+    damage:
+      types:
+        Blunt: 5
+    bluntStaminaDamageFactor: 0.5
+    angle: 60
+    animation: WeaponArcSlash
+  - type: StaminaDamageOnHit
+    damage: 25
+    sound: /Audio/Weapons/smash.ogg
+  - type: ItemCooldown
+  - type: Item
+    heldPrefix: off
+    size: 10
+  - type: Appearance
+  - type: GenericVisualizer
+    visuals:
+     enum.ToggleVisuals.Toggled:
+        enum.ToggleVisuals.Layer:
+          True: {state: telebaton_on}
+          False: {state: telebaton_off}
+  - type: StaticPrice
+    price: 200
